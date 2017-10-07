@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dodge &#8211; Lydford Weir</title>
+	<atom:link href="/author/dodge/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Repairing the weir in West Lydford, Somerset</description>
+	<lastBuildDate>Wed, 30 Dec 2015 21:29:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<item>
+		<title>Press Release</title>
+		<link>/2012/11/06/press-release/</link>
+		<pubDate>Tue, 06 Nov 2012 19:55:24 +0000</pubDate>
+		<dc:creator><![CDATA[dodge]]></dc:creator>
+				<category><![CDATA[Fundraising]]></category>
+		<category><![CDATA[Lydford Weir]]></category>
+		<category><![CDATA[Project Progress]]></category>
+
+		<guid isPermaLink="false">/?p=100</guid>
+		<description><![CDATA[  The ancient weir on the River Brue in the village of West Lydford has just been repaired by a group of local volunteers after 3 years of fundraising.   The weir, which is the largest on the Brue, had suffered &#8230; <a href="/2012/11/06/press-release/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[<h5 style="text-align: center"></h5>
+<h5 style="text-align: center"> <a href="/wp-content/uploads/2012/11/Weir-Press-Release.jpg"><img class="alignnone size-medium wp-image-102" src="/wp-content/uploads/2012/11/Weir-Press-Release-300x216.jpg" alt="" width="300" height="216" /></a></h5>
+<p style="text-align: left" align="center">The ancient weir on the River Brue in the village of West Lydford has just been repaired by a group of local volunteers after 3 years of fundraising.   The weir, which is the largest on the Brue, had suffered severe erosion damage in the latter part of last century and was in danger of collapse.  In September 2010, the Lydford Weir Company, a charity, was formed to effect the repair.  The target was £60,000 and funds were raised from running local events, generous personal donations from members of the local community plus a major grant from Viridor Credits Environmental Company.</p>
+<p style="text-align: left">The contractor was Suttle Projects Ltd of Swanage, Dorset.   Given this summer’s very heavy rainfall, the repair was a big challenge as the river had to be diverted away from the weir and the plunge pool at the base, so that the repair work could be carried out.  This was achieved by diverting as much of the river water as possible down the associated mill streams, then pumping and syphoning the remainder of the water over the weir area, to the river bed further downstream.</p>
+<p style="text-align: left">The project was completed within time and cost constraints and those who contributed to the project will be/were invited to a recommissioning reception on 18 November in the village hall, close by the weir.  A display board giving information about the weir and the repair, will be/was unveiled by local resident, Sir Conrad Heron, who undertook much of the early work into establishing ownership of the weir and the Restoration Project organisational set-up.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

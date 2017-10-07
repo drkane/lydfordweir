@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>video &#8211; Lydford Weir</title>
+	<atom:link href="/tag/video/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Repairing the weir in West Lydford, Somerset</description>
+	<lastBuildDate>Wed, 30 Dec 2015 21:29:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<item>
+		<title>The weir in action (video)</title>
+		<link>/2011/12/20/the-weir-in-action-video/</link>
+		<pubDate>Tue, 20 Dec 2011 18:16:09 +0000</pubDate>
+		<dc:creator><![CDATA[drkane]]></dc:creator>
+				<category><![CDATA[Lydford Weir]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">/?p=32</guid>
+		<description><![CDATA[Click to view video. ￼]]></description>
+				<content:encoded><![CDATA[<p><video width="720" height="480" controls="controls"><source src="/wp-content/uploads/2012/09/wpid-VID_20111220_151346.mp4" type="video/mp4" /><object width="720" height="480" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="/wp-includes/js/tinymce/plugins/media/moxieplayer.swf" /><param name="flashvars" value="url=/wp-content/uploads/2012/09/wpid-VID_20111220_151346.mp4&amp;poster=/wp-admin/" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="true" /><embed width="720" height="480" type="application/x-shockwave-flash" src="/wp-includes/js/tinymce/plugins/media/moxieplayer.swf" flashvars="url=/wp-content/uploads/2012/09/wpid-VID_20111220_151346.mp4&amp;poster=/wp-admin/" allowfullscreen="true" allowscriptaccess="true" /></object><a href="/wp-content/uploads/2012/09/wpid-VID_20111220_151346.mp4">Click to view video</a>.</video></p>
+<p>￼</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for Lydford Weir</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Repairing the weir in West Lydford, Somerset</description>
+	<lastBuildDate>Tue, 12 Jun 2012 12:16:27 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.2</generator>
+	<item>
+		<title>Comment on Somerset Rivers &#8211; West Lydford Mill Stream by David Jury</title>
+		<link>/2012/04/14/somerset-rivers-west-lydford-mill-stream/#comment-2</link>
+		<dc:creator><![CDATA[David Jury]]></dc:creator>
+		<pubDate>Tue, 12 Jun 2012 12:16:27 +0000</pubDate>
+		<guid isPermaLink="false">/?p=69#comment-2</guid>
+		<description><![CDATA[Good luck with your project. There are several videos of the two weirs that I have on my website. You can view them via this link.
+http://somersetrivers.org/index.php?module=Content&#038;func=view&#038;pid=106]]></description>
+		<content:encoded><![CDATA[<p>Good luck with your project. There are several videos of the two weirs that I have on my website. You can view them via this link.<br />
+<a href="http://somersetrivers.org/index.php?module=Content&#038;func=view&#038;pid=106" rel="nofollow">http://somersetrivers.org/index.php?module=Content&#038;func=view&#038;pid=106</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
